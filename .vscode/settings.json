@@ -1,0 +1,12 @@
+{
+    "AVR.source.compiler": "c:\\WinAVR-20071221\\bin\\avr-gcc.exe",
+    "AVR.programmer.definitions": "c:\\WinAVR-20071221\\bin\\avrdude.conf",
+    "AVR.source.libraries": [
+        "C:\\WinAVR-20071221\\avr"
+    ],
+    "files.associations": {
+        "timer.h": "c",
+        "notes.h": "c"
+    },
+    "AVR.programmer.tool": "c:\\WinAVR-20071221\\bin\\avrdude.exe"
+}

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "AVR",
+            "intelliSenseMode": "${default}",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "compilerPath": "c:\\WinAVR-20071221\\bin\\avr-gcc.exe",
+            "includePath": [
+                "C:\\WinAVR-20071221\\avr\\**"
+            ],
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                "-DF_CPU=16000000UL"
+            ]
+        }
+    ],
+    "version": 4
+}
